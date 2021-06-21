@@ -1,3 +1,7 @@
 Line1
+<<<<<<< Updated upstream
 
 Some channges going on
+=======
+Line2
+>>>>>>> Stashed changes
